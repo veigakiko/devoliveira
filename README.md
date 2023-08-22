@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently  learning Apache Spark<br>🎯 Goals: <br>Specialist Data Engineer</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently  learning Apache Spark<br>🎯 Goals: Specialist Data Engineer
 
 ###
 
